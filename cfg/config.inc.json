@@ -1,0 +1,44 @@
+{
+	"botToken": "",
+	"storagePath": "storage/",
+	"maxFileSize": 1048578,
+	"loopRefresh": 5000,
+	"keyFile": "./cfg/keyFile.json",
+	"admins": [
+		487239563,
+		136369937,
+		777453885,
+		975825815,
+		1778221035
+	],
+	"banned": [],
+	"validExtensions": [
+		".ePro",
+		".epro",
+		".acm",
+		".zxc",
+		".hc",
+		".sks",
+		".tut",
+		".tmt",
+		".cyh",
+		".tsn",
+		".kfd",
+		".dsi",
+		".rf",
+		".hat",
+		".asht",
+		".tls",
+		".ehi",
+		".ehil",
+		".npv2",
+		".vhd"
+	],
+	"stats": {
+		"totalFiles": 0,
+		"decryptedFiles": 0,
+		"failedFiles": 0
+	},
+	"language": "english",
+	"layout": "default"
+}
